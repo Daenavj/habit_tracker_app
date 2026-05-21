@@ -1,0 +1,6 @@
+# Runtime dependencies
+# (None - the application uses only the Python standard library:
+#  sqlite3, datetime, json, dataclasses, etc.)
+
+# Development / testing dependencies
+pytest>=7.0
