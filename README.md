@@ -26,8 +26,8 @@ No other third-party dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-user>/<your-repo>.git
-cd <your-repo>/habit_tracker_app
+git clone https://github.com/Daenavj/habit_tracker_app.git
+cd habit_tracker_app
 
 # Optional but recommended: create a virtual environment
 python3 -m venv .venv
